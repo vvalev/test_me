@@ -2,7 +2,10 @@
 int main() {   
     int number;
    
-    //---So, this is a change made under the 'new_branch' branch
+    //---So, this is a change made under the 'next_branch' branch
+	
+	printf("==== This is a new line: \n");
+	
     printf("Enter an integer: \n");  
     
     // reads and stores input
